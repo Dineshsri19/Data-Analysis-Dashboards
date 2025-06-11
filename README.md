@@ -2,6 +2,7 @@
 An interactive Power BI dashboard that provides deep insights into HR metrics such as attrition rate, salary distribution, employee performance, and revenue trends. This project is designed to help HR managers and business leaders make data-driven decisions based on real-time visual analysis.
 
 ### Dashboard Link :
+
 ## Dataset used
 - <a href = "https://github.com/Dineshsri19/Data-Analysis-Dashboards/blob/main/HRDatasetNew.xlsx">Dataset</a>
 
@@ -59,8 +60,7 @@ Organizations often struggle to monitor workforce trends, predict employee attri
 5. **Dashboard Design**  
    - Applied slicers for dynamic filtering
 
-## 📌 Author
+## Conclusion
 
-[Dinesh R]  
-[www.linkedin.com/in/dineshr1999] | [dineshsrirk@gmail.com]
+This HR Analysis Dashboard empowers stakeholders with actionable insights into employee performance, attrition, and salary trends, while also linking HR metrics to overall business revenue. It serves as a smart, visual tool to support data-driven HR decisions and enhance strategic workforce planning.
     
