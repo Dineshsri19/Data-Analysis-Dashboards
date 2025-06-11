@@ -33,6 +33,10 @@ Organizations often struggle to monitor workforce trends, predict employee attri
 - Gender  
 - Citizenship
 
+## Screenshot: ![HR_PowerBI_SS](https://github.com/user-attachments/assets/f31833c8-a919-441f-b2d6-3583af3515c8)
+
+  
+
 ## ⚙️ Steps Followed
 
 1. **Data Collection**  
